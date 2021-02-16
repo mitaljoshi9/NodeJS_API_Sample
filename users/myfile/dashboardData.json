@@ -1,0 +1,72 @@
+{
+    "status": true,
+    "message": "success",
+    "data": [
+        {
+            "payStatus": -20,
+            "payScale": [
+                {
+                    "scale": "2019",
+                    "value": ""
+                },
+                {
+                    "scale": "Jan",
+                    "value": ""
+                },
+                {
+                    "scale": "Feb",
+                    "value": ""
+                },
+                {
+                    "scale": "Mar",
+                    "value": ""
+                },
+                {
+                    "scale": "Apr",
+                    "value": ""
+                }
+            ],
+            "recentAnnouncement_count": 3,
+            "unread_messages_count": 3,
+            "recentAnnouncements": [
+                {
+                    "avatarURL": "https://randomuser.me/api/portraits/women/80.jpg",
+                    "username": "Lucy Lee",
+                    "userId": 1,
+                    "messageBody": "Thanks will do! Photoshop looks awesome and can’t wait to give it a go.",
+                    "messageType": 0,
+                    "createdTime": "Jan 25, 10:25"
+                }
+            ],
+            "unreadMessages": [
+                {
+                    "type": 0,
+                    "avatarURL": "https://randomuser.me/api/portraits/women/11.jpg",
+                    "body": "Thanks will do! Photoshop looks awesome and can’t wait to give it a go.",
+                    "fromUserId": 0,
+                    "fromUserName": "",
+                    "time": "Nov 5, 10:25",
+                    "subject": ""
+                },
+                {
+                    "type": 0,
+                    "avatarURL": "https://randomuser.me/api/portraits/women/11.jpg",
+                    "body": "Thanks Lucy, 👍 yea was great. More advanced techniques sounds like a plan, speak soon.",
+                    "fromUserId": 0,
+                    "fromUserName": "",
+                    "time": "Nov 7, 09:18",
+                    "subject": ""
+                },
+                {
+                    "type": 1,
+                    "avatarURL": "https://randomuser.me/api/portraits/women/11.jpg",
+                    "body": "😇😇",
+                    "fromUserId": 0,
+                    "fromUserName": "",
+                    "time": "Nov 7, 09:21",
+                    "subject": ""
+                }
+            ]
+        }
+    ]
+}

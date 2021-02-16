@@ -1,0 +1,27 @@
+{
+  "status": true,
+  "message": "success",
+  "data": [
+    {
+      "id": 1,
+      "avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+      "username": "test1@email.com",
+      "firstName": "Test1",
+      "lastName": "User1"
+    },
+    {
+      "id": 2,
+      "avatar": "https://randomuser.me/api/portraits/men/8.jpg",
+      "username": "test2@email.com",
+      "firstName": "Test2",
+      "lastName": "User2"
+    },
+    {
+      "id": 3,
+      "avatar": "https://randomuser.me/api/portraits/women/18.jpg",
+      "username": "test3@email.com",
+      "firstName": "Test3",
+      "lastName": "User3"
+    }
+  ]
+}

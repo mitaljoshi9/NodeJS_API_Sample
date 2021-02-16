@@ -1,0 +1,69 @@
+{
+    "status": true,
+    "message": "success",
+    "data": [
+        {
+            "type": 0,
+            "avatarURL": "https://randomuser.me/api/portraits/women/85.jpg",
+            "body": "Hey Aaron, thanks for the call yesterday. So pleased that you found the topics we covered useful, and looking forward to seeing what you create. Definitely check out Photoshop too, some great tools for editing photos.",
+            "fromUserId": 1,
+            "fromUserName": "Lucy Lee",
+            "time": "Nov 4, 18:03",
+            "subject": ""
+        },
+        {
+            "type": 0,
+            "avatarURL": "https://randomuser.me/api/portraits/women/11.jpg",
+            "body": "Thanks will do! Photoshop looks awesome and can’t wait to give it a go.",
+            "fromUserId": 0,
+            "fromUserName": "",
+            "time": "Nov 5, 10:25",
+            "subject": ""
+        },
+        {
+            "type": 1,
+            "avatarURL": "https://randomuser.me/api/portraits/women/85.jpg",
+            "body": "Great catching up today Aaron. I’ve got our next mentoring session schedule for next Tuesday 6th November if this still works for you? How do you feel about tackling some more advanced photography techniques?",
+            "fromUserId": 1,
+            "fromUserName": "Lucy Lee",
+            "time": "Nov 6, 13:25",
+            "subject": ""
+        },
+        {
+            "type": 0,
+            "avatarURL": "https://randomuser.me/api/portraits/women/85.jpg",
+            "body": "Great catching up today Aaron. I’ve got our next mentoring session schedule for next Tuesday 6th November if this still works for you? How do you feel about tackling some more advanced photography techniques?",
+            "fromUserId": 1,
+            "fromUserName": "Lucy Lee",
+            "time": "Nov 6, 13:25",
+            "subject": ""
+        },
+        {
+            "type": 0,
+            "avatarURL": "https://randomuser.me/api/portraits/women/11.jpg",
+            "body": "Thanks Lucy, 👍 yea was great. More advanced techniques sounds like a plan, speak soon.",
+            "fromUserId": 0,
+            "fromUserName": "",
+            "time": "Nov 7, 09:18",
+            "subject": ""
+        },
+        {
+            "type": 0,
+            "avatarURL": "https://randomuser.me/api/portraits/women/85.jpg",
+            "body": "😊😄",
+            "fromUserId": 1,
+            "fromUserName": "Lucy Lee",
+            "time": "Nov 7, 09:20",
+            "subject": ""
+        },
+        {
+            "type": 1,
+            "avatarURL": "https://randomuser.me/api/portraits/women/11.jpg",
+            "body": "😇😇",
+            "fromUserId": 0,
+            "fromUserName": "",
+            "time": "Nov 7, 09:21",
+            "subject": ""
+        }
+    ]
+}

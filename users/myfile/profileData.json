@@ -1,0 +1,13 @@
+{
+    "status": true,
+    "message": "success",
+    "data": {
+        "username": "Lucy Lee",
+        "userId": 1,
+        "position": "Manager",
+        "location": "New York",
+        "avatarURL": "https://randomuser.me/api/portraits/women/85.jpg",
+        "absances_this_week": 3,
+        "bio": "Lucy was born on 10 January 1984 in NY."
+    }
+}
